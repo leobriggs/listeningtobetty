@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "leobriggs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202027292?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "leobriggs",
     "is_private": false,
@@ -140,6 +146,26 @@
       ]
     },
     "created_at": "2025-04-30T17:52:18.087Z",
-    "updated_at": "2025-04-30T17:52:18.087Z"
-  }
+    "updated_at": "2025-04-30T17:52:18.087Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "51d7c97d-0bf5-4d40-8547-5288d500a1b4": {
+      "content": [],
+      "created_at": "2025-04-30T17:52:18.125Z",
+      "created_by": "leobriggs",
+      "title": "Listening to Betty Hill",
+      "updated_at": "2025-04-30T17:52:18.125Z",
+      "updated_by": "leobriggs",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "51d7c97d-0bf5-4d40-8547-5288d500a1b4"
+  ]
 }
