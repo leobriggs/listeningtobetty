@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "f43c1536-6dd5-4d95-baaf-7db3e2fe65f8": {
+      "label": "Interview",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/ufo-connection-s-1-e-1-betty-hill-hd-web-ufo-connection-s-1-e-1-betty-hill-hd-web/UFO%20Connection%20S1E1%20-%20BETTY%20HILL_HD_WEB%20%5BUFO%20Connection%20S1E1%20-%20BETTY%20HILL_HD_WEB%5D.mp4",
+      "duration": 4046,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "“Betty Hill.” UFO Connection, season 1, episode 1, starring Cynthia Siegel, Access Sacramento, 2002.",
+  "item_type": "Video",
+  "label": "Interview with Cynthia Siegel and Betty Hill",
+  "created_at": "2025-04-30T17:53:53.726Z",
+  "created_by": "leobriggs",
+  "updated_at": "2025-04-30T17:53:53.726Z",
+  "updated_by": "leobriggs"
+}
