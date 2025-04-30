@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "83e10f57-2e67-4ff1-b12c-4f488a8987c5",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-04-30T17:53:53.999Z",
   "created_by": "leobriggs",
   "title": "Interview with Cynthia Siegel and Betty Hill",
   "slug": "interview-with-cynthia-siegel-and-betty-hill",
-  "updated_at": "2025-04-30T17:53:53.999Z",
+  "updated_at": "2025-04-30T17:56:29.635Z",
   "updated_by": "leobriggs",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "83e10f57-2e67-4ff1-b12c-4f488a8987c5"
   }
