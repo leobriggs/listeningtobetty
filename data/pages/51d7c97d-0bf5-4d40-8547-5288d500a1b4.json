@@ -30,16 +30,41 @@
                   "text": "was hosted by fellow UFO enthusiast Cynthia Siegel, who is an active member in local UFO organizations. The hour-long interview offers auditory clues into the process of creating and shifting the identity of the alien abductee."
                 }
               ]
-            },
+            }
+          ],
+          "top": 1,
+          "bottom": 1
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nThis project listens to the voices of Betty Hill and Cynthia Siegel to better understand the dialectic process of what Ian Hacking calls “making up people.” I pay particular attention to the way that rehearsed storytelling practices, discourses of evidence, humor, and temporalities of abduction appear in the interview. The creative strategies Hill employs are emblematic of a collective process of rehearsed storytelling that abductees engage in order to make sense of experiences that have cast them to the fringes of societal legitimacy."
+                  "text": "This project listens to the voices of Betty Hill and Cynthia Siegel to better understand the dialectic process of what Ian Hacking calls “making up people.” I pay particular attention to the way that rehearsed storytelling practices, discourses of evidence, humor, and temporalities of abduction appear in the interview. The creative strategies Hill employs are emblematic of a collective process of rehearsed storytelling that abductees engage in order to make sense of experiences that have cast them to the fringes of societal legitimacy."
                 }
               ]
             }
-          ]
+          ],
+          "top": 1,
+          "bottom": 1
         }
       ]
     },
@@ -55,7 +80,7 @@
   "created_at": "2025-04-30T17:52:18.125Z",
   "created_by": "leobriggs",
   "title": "Listening to Betty Hill",
-  "updated_at": "2025-05-05T15:57:27.401Z",
+  "updated_at": "2025-05-05T17:17:47.079Z",
   "updated_by": "absempere",
   "autogenerate": {
     "enabled": false,
